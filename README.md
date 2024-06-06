@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Minjiwon's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:00FFFF,100:1E90FF&height=300&section=header&text=Minjiwon's%20GitHub&fontSize=90)
 
 
 ![민지원's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinZW0n&show_icons=true&theme=)
